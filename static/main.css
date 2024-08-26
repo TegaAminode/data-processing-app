@@ -1,0 +1,140 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    margin-top: 5rem;
+    background-image: url('/static/image.png');
+  }
+  
+  h1, h2, h3, h4, h5, h6,p {
+    color: #444444;
+    text-align: center;
+  }
+  
+  footer{
+    text-align: center;
+    padding-top: 40px;
+  }
+  .bg-steel {
+    background-color: #ffffff;
+  }
+  
+  .site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  .content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    box-shadow:0 -1px 3px rgba(46, 46, 46, 0.5);
+  }
+  
+  .article-title {
+    color: #444444;
+  }
+  
+  a.article-title:hover {
+    color: #162F5C;
+    text-decoration: none;
+  }
+
+  .button-style:hover {
+    background-color: #45a049;
+    color: #ffffff;
+  }
+  
+  .article-content {
+    white-space: pre-line;
+  }
+  
+  .article-img {
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
+  }
+  
+  .article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #e3e3e3
+  }
+  
+  .article-metadata a:hover {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
+  
+  .account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .account-heading {
+    font-size: 2.5rem;
+  }
+  input[type=file], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .list_style:hover{
+    color: #162F5C;
+    background-color: #DCE0EA;
+  }
+
+  input[value=Process] {
+    width: 49%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[value=Cancel] {
+    width: 49%;
+    background-color: crimson;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[value=Cancel]:hover {
+    background-color:rgb(212, 22, 60);
+    color: #f5f4f4;
+  }
+
+  input[value=Process]:hover {
+    background-color: #45a049;
+    color: #f5f4f4;
+  }
+  
