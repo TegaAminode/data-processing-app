@@ -11,7 +11,7 @@ It reduces manual effort, ensures consistency, and prepares datasets for accurat
 ---
 
 ## ✨ Features
-- 📂 Upload Excel/CSV files  
+- 📂 Upload Excel files  
 - ⚡ Automated data cleaning (remove duplicates, handle missing values, fix formats)  
 - 🔍 Validation checks to ensure data quality  
 - 📊 Export processed data ready for analysis  
