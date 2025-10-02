@@ -6,7 +6,7 @@ It reduces manual effort, ensures consistency, and prepares datasets for accurat
 ---
 
 ## 🎥 Demo
-![App Demo](demo.gif)
+![App Demo](https://github.com/TegaAminode/data-processing-app/blob/main/static/DQP%20Demo.gif)
 
 ---
 
